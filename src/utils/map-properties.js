@@ -1,5 +1,11 @@
 const lodash = require("lodash");
 
+/* -------------------------------------------------
+*   Accepts config parameter object
+*   object key specifies original property name
+*   object value specifies new property name 
+*   . is path delimiter in object values
+* ------------------------------------------------ */
 function mapProperties(configuration) {
   return (data) => {
     if (data) {
