@@ -3,6 +3,12 @@
 ## Overview
 Backend project that includes a custom written API connecting routes to a database using Knex.
 
+## Libraries
+- Knex
+- Express
+- lodash
+- CORS
+
 ## File Structure
 - src/
     - app.js
