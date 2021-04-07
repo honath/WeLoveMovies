@@ -1,5 +1,4 @@
 # Project WeLoveMovies
-[Vercel Website](https://welovemovies.vercel.app/)
 
 ## Overview
 Backend project that includes a custom written API connecting routes to a database using Knex.
